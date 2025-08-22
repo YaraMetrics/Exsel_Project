@@ -1,3 +1,5 @@
+![Bike Buyers Dashboard](bike_dashboard.png)
+
 🚴‍♂️ Bike Buyers Analysis
 
 📌 Overview
